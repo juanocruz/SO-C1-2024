@@ -1,0 +1,191 @@
+[INFO] 22:02:51:790 modulo CPU/(108770:108770): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:02:51:791 modulo CPU/(108770:108770): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:02:51:791 modulo CPU/(108770:108770): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[ERROR] 22:05:26:953 modulo CPU/(109422:109422): Error al conectar (a servidor memoria)
+
+[INFO] 22:10:29:894 modulo CPU/(109986:109986): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:10:29:896 modulo CPU/(109986:109986): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:10:29:897 modulo CPU/(109986:109986): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:17:46:316 modulo CPU/(110876:110876): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:17:46:353 modulo CPU/(110876:110876): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:17:46:353 modulo CPU/(110876:110876): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:18:56:486 modulo CPU/(110876:110876): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:18:56:487 modulo CPU/(110876:110876): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:19:45:781 modulo CPU/(110876:111338): Se desconecto un cliente
+[WARNING] 22:19:45:781 modulo CPU/(110876:111336): Se desconecto un cliente
+[INFO] 22:33:05:081 modulo CPU/(113952:113952): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:33:05:082 modulo CPU/(113952:113952): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:33:05:083 modulo CPU/(113952:113952): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:33:41:124 modulo CPU/(113952:113952): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:33:41:124 modulo CPU/(113952:113952): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:33:53:515 modulo CPU/(113952:114286): Se desconecto un cliente
+[WARNING] 22:33:53:516 modulo CPU/(113952:114285): Se desconecto un cliente
+[INFO] 22:37:40:562 modulo CPU/(115012:115012): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:37:40:562 modulo CPU/(115012:115012): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:37:40:562 modulo CPU/(115012:115012): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:37:55:543 modulo CPU/(115012:115012): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:37:55:543 modulo CPU/(115012:115012): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:38:11:389 modulo CPU/(115012:115155): Se desconecto un cliente
+[WARNING] 22:38:11:389 modulo CPU/(115012:115154): Se desconecto un cliente
+[INFO] 22:50:04:403 modulo CPU/(116043:116043): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:50:04:403 modulo CPU/(116043:116043): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:50:04:403 modulo CPU/(116043:116043): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:50:14:965 modulo CPU/(116043:116043): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:50:14:965 modulo CPU/(116043:116043): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:50:44:998 modulo CPU/(116043:116161): Se desconecto un cliente
+[WARNING] 22:50:44:998 modulo CPU/(116043:116159): Se desconecto un cliente
+[INFO] 22:51:57:373 modulo CPU/(116043:116043): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:51:57:373 modulo CPU/(116043:116043): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:51:57:377 modulo CPU/(116043:116904): Se desconecto un cliente
+[WARNING] 22:51:57:382 modulo CPU/(116043:116906): Se desconecto un cliente
+[INFO] 22:56:34:121 modulo CPU/(117363:117363): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:56:34:121 modulo CPU/(117363:117363): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 22:56:34:121 modulo CPU/(117363:117363): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 22:56:54:680 modulo CPU/(117363:117363): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 22:56:54:680 modulo CPU/(117363:117363): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 22:57:45:824 modulo CPU/(117363:117692): Se desconecto un cliente
+[WARNING] 22:57:45:824 modulo CPU/(117363:117694): Se desconecto un cliente
+[INFO] 23:01:33:754 modulo CPU/(118560:118560): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:01:33:754 modulo CPU/(118560:118560): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 23:01:33:754 modulo CPU/(118560:118560): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 23:02:16:908 modulo CPU/(118560:118560): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 23:02:16:909 modulo CPU/(118560:118560): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 23:02:31:823 modulo CPU/(118560:118694): Se desconecto un cliente
+[WARNING] 23:02:31:824 modulo CPU/(118560:118693): Se desconecto un cliente
+[INFO] 23:06:51:280 modulo CPU/(119487:119487): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:06:51:280 modulo CPU/(119487:119487): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 23:06:51:281 modulo CPU/(119487:119487): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 23:07:05:041 modulo CPU/(119487:119487): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 23:07:05:041 modulo CPU/(119487:119487): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 23:07:19:447 modulo CPU/(119487:119802): Se desconecto un cliente
+[WARNING] 23:07:19:447 modulo CPU/(119487:119803): Se desconecto un cliente
+[INFO] 23:11:20:279 modulo CPU/(120522:120522): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:11:20:279 modulo CPU/(120522:120522): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 23:11:20:279 modulo CPU/(120522:120522): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 23:11:27:685 modulo CPU/(120522:120522): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 23:11:27:685 modulo CPU/(120522:120522): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[INFO] 01:53:43:878 modulo CPU/(121801:121801): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 01:53:43:878 modulo CPU/(121801:121801): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 01:53:43:879 modulo CPU/(121801:121801): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 01:54:57:231 modulo CPU/(121801:121801): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 01:54:57:231 modulo CPU/(121801:121801): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 02:07:23:244 modulo CPU/(121801:122131): Se desconecto un cliente
+[INFO] 02:12:32:860 modulo CPU/(124456:124456): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:12:32:863 modulo CPU/(124456:124456): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 02:12:32:863 modulo CPU/(124456:124456): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 02:12:42:815 modulo CPU/(124456:124456): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 02:12:42:816 modulo CPU/(124456:124456): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[INFO] 02:18:15:554 modulo CPU/(125513:125513): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:18:15:554 modulo CPU/(125513:125513): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 02:18:15:554 modulo CPU/(125513:125513): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 02:18:39:790 modulo CPU/(125513:125513): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 02:18:39:790 modulo CPU/(125513:125513): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 02:19:06:841 modulo CPU/(125513:125632): Se desconecto un cliente
+[WARNING] 02:19:06:841 modulo CPU/(125513:125633): Se desconecto un cliente
+[INFO] 02:45:41:070 modulo CPU/(128314:128314): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:45:41:070 modulo CPU/(128314:128314): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 02:45:41:070 modulo CPU/(128314:128314): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 02:45:49:836 modulo CPU/(128314:128314): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 02:45:49:836 modulo CPU/(128314:128314): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[WARNING] 02:46:04:827 modulo CPU/(128314:128444): Se desconecto un cliente
+[WARNING] 02:46:04:827 modulo CPU/(128314:128442): Se desconecto un cliente
+[INFO] 02:49:51:875 modulo CPU/(129092:129092): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:49:51:875 modulo CPU/(129092:129092): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 02:49:51:875 modulo CPU/(129092:129092): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 02:50:06:857 modulo CPU/(129092:129092): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 02:50:06:857 modulo CPU/(129092:129092): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[ERROR] 20:04:25:386 modulo CPU/(135712:135712): Error al conectar (a servidor memoria)
+
+[INFO] 20:07:11:765 modulo CPU/(137980:137980): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 20:07:11:765 modulo CPU/(137980:137980): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 20:07:11:766 modulo CPU/(137980:137980): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 20:07:12:760 modulo CPU/(137980:137980): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 20:07:12:760 modulo CPU/(137980:137980): Se conecto un cliente (a Servidor CPU Interrupt)
+
+[INFO] 21:21:07:432 modulo CPU/(140957:140957): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 21:21:07:469 modulo CPU/(140957:140957): Escuchando en 127.0.0.1:8006 (Servidor CPU Dispatch)
+
+[INFO] 21:21:07:469 modulo CPU/(140957:140957): Escuchando en 127.0.0.1:8007 (Servidor CPU Interrupt)
+
+[INFO] 21:24:30:281 modulo CPU/(140957:140957): Se conecto un cliente (a Servidor CPU Dispatch)
+
+[INFO] 21:24:30:282 modulo CPU/(140957:140957): Se conecto un cliente (a Servidor CPU Interrupt)
+

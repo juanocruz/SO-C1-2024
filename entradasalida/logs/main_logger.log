@@ -1,0 +1,62 @@
+[INFO] 22:19:45:780 modulo IO/(111592:111592): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 22:19:45:780 modulo IO/(111592:111592): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 22:33:53:514 modulo IO/(114476:114476): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 22:33:53:514 modulo IO/(114476:114476): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 22:38:11:388 modulo IO/(115366:115366): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 22:38:11:388 modulo IO/(115366:115366): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 22:50:44:993 modulo IO/(116392:116392): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 22:50:44:996 modulo IO/(116392:116392): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 22:57:45:823 modulo IO/(118062:118062): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 22:57:45:825 modulo IO/(118062:118062): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 23:02:31:823 modulo IO/(118923:118923): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 23:02:31:823 modulo IO/(118923:118923): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 23:07:19:300 modulo IO/(120014:120014): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 23:07:19:300 modulo IO/(120014:120014): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 23:11:39:722 modulo IO/(120851:120851): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 23:11:39:725 modulo IO/(120851:120851): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 02:07:23:206 modulo IO/(122643:122643): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 02:07:23:243 modulo IO/(122643:122643): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 02:13:27:629 modulo IO/(124821:124821): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 02:13:27:629 modulo IO/(124821:124821): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 02:19:06:803 modulo IO/(125859:125859): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 02:19:06:840 modulo IO/(125859:125859): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 02:46:04:826 modulo IO/(128645:128645): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 02:46:04:826 modulo IO/(128645:128645): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 02:50:20:412 modulo IO/(129608:129608): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 02:50:20:413 modulo IO/(129608:129608): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[ERROR] 20:04:26:830 modulo IO/(135906:135906): Error al conectar (a Server Memoria)
+
+[INFO] 20:07:13:230 modulo IO/(138261:138261): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 20:07:13:230 modulo IO/(138261:138261): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+
+[INFO] 21:25:30:396 modulo IO/(142026:142026): Cliente conectado en 127.0.0.1:8002 (a Server Memoria)
+
+[INFO] 21:25:30:397 modulo IO/(142026:142026): Cliente conectado en 127.0.0.1:8003 (a Server kernel)
+

@@ -1,0 +1,177 @@
+[INFO] 22:18:56:485 modulo kernel/(111333:111333): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:18:56:486 modulo kernel/(111333:111333): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:18:56:487 modulo kernel/(111333:111333): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:18:56:487 modulo kernel/(111333:111333): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 22:19:45:780 modulo kernel/(111333:111333): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:19:45:781 modulo kernel/(111333:111333): Recibimos de kernel un op code erroneo: -1254158144, que quilombo que tenes aca hermano
+[INFO] 22:33:41:123 modulo kernel/(114282:114282): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:33:41:124 modulo kernel/(114282:114282): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:33:41:124 modulo kernel/(114282:114282): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:33:41:124 modulo kernel/(114282:114282): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 22:33:53:514 modulo kernel/(114282:114282): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:33:53:514 modulo kernel/(114282:114282): Recibimos de IO un op code erroneo: -1063463539, que quilombo que tenes aca hermano
+[INFO] 22:37:55:542 modulo kernel/(115152:115152): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:37:55:543 modulo kernel/(115152:115152): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:37:55:543 modulo kernel/(115152:115152): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:37:55:543 modulo kernel/(115152:115152): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 22:38:11:388 modulo kernel/(115152:115152): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:38:11:389 modulo kernel/(115152:115152): Recibimos de IO un op code erroneo: 1914614555, que quilombo que tenes aca hermano
+[INFO] 22:50:14:965 modulo kernel/(116157:116157): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:50:14:965 modulo kernel/(116157:116157): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:50:14:965 modulo kernel/(116157:116157): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:50:14:965 modulo kernel/(116157:116157): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 22:50:44:997 modulo kernel/(116157:116157): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:50:44:998 modulo kernel/(116157:116157): Recibimos de IO un op code erroneo: -754503903, que quilombo que tenes aca hermano
+[INFO] 22:51:57:334 modulo kernel/(116901:116901): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:51:57:371 modulo kernel/(116901:116901): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:51:57:372 modulo kernel/(116901:116901): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:51:57:372 modulo kernel/(116901:116901): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:51:57:372 modulo kernel/(116901:116901): Recibimos de IO un op code erroneo: -1753827232, que quilombo que tenes aca hermano
+[INFO] 22:56:54:680 modulo kernel/(117690:117690): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 22:56:54:680 modulo kernel/(117690:117690): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 22:56:54:680 modulo kernel/(117690:117690): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 22:56:54:680 modulo kernel/(117690:117690): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 22:57:45:824 modulo kernel/(117690:117690): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 22:57:45:824 modulo kernel/(117690:117690): Recibimos de IO un op code erroneo: -184996391, que quilombo que tenes aca hermano
+[INFO] 23:02:16:908 modulo kernel/(118691:118691): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:02:16:908 modulo kernel/(118691:118691): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 23:02:16:909 modulo kernel/(118691:118691): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 23:02:16:909 modulo kernel/(118691:118691): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 23:02:31:823 modulo kernel/(118691:118691): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 23:02:31:823 modulo kernel/(118691:118691): Recibimos de IO un op code erroneo: -1552923353, que quilombo que tenes aca hermano
+[INFO] 23:07:05:041 modulo kernel/(119800:119800): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:07:05:041 modulo kernel/(119800:119800): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 23:07:05:041 modulo kernel/(119800:119800): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 23:07:05:041 modulo kernel/(119800:119800): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 23:07:19:300 modulo kernel/(119800:119800): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 23:07:19:300 modulo kernel/(119800:119800): Recibimos de IO un op code erroneo: 919782052, que quilombo que tenes aca hermano
+[INFO] 23:11:27:684 modulo kernel/(120630:120630): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 23:11:27:684 modulo kernel/(120630:120630): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 23:11:27:684 modulo kernel/(120630:120630): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 23:11:27:684 modulo kernel/(120630:120630): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 23:11:39:725 modulo kernel/(120630:120630): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 23:11:39:725 modulo kernel/(120630:120630): Recibimos de IO un op code erroneo: 254373927, que quilombo que tenes aca hermano
+[INFO] 01:54:57:231 modulo kernel/(122129:122129): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 01:54:57:231 modulo kernel/(122129:122129): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 01:54:57:231 modulo kernel/(122129:122129): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 01:54:57:231 modulo kernel/(122129:122129): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 02:07:23:243 modulo kernel/(122129:122129): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 02:07:23:243 modulo kernel/(122129:122129): Recibimos de IO un op code erroneo: -286958323, que quilombo que tenes aca hermano
+[INFO] 02:12:42:814 modulo kernel/(124564:124564): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:12:42:815 modulo kernel/(124564:124564): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 02:12:42:816 modulo kernel/(124564:124564): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 02:12:42:817 modulo kernel/(124564:124564): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 02:13:27:629 modulo kernel/(124564:124564): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 02:13:27:629 modulo kernel/(124564:124564): Recibimos de IO un op code erroneo: 652672204, que quilombo que tenes aca hermano
+[INFO] 02:18:39:790 modulo kernel/(125630:125630): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:18:39:790 modulo kernel/(125630:125630): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 02:18:39:790 modulo kernel/(125630:125630): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 02:18:39:790 modulo kernel/(125630:125630): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 02:19:06:840 modulo kernel/(125630:125630): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 02:19:06:840 modulo kernel/(125630:125630): Recibimos de IO un op code erroneo: -561147213, que quilombo que tenes aca hermano
+[INFO] 02:45:49:835 modulo kernel/(128441:128441): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:45:49:836 modulo kernel/(128441:128441): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 02:45:49:836 modulo kernel/(128441:128441): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 02:45:49:836 modulo kernel/(128441:128441): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 02:46:04:826 modulo kernel/(128441:128441): Se conecto un cliente (a Server Kernel)
+
+[ERROR] 02:46:04:826 modulo kernel/(128441:128441): Recibimos de IO un op code erroneo: -1549724151, que quilombo que tenes aca hermano
+[INFO] 02:50:06:857 modulo kernel/(129388:129388): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 02:50:06:857 modulo kernel/(129388:129388): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 02:50:06:857 modulo kernel/(129388:129388): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 02:50:06:857 modulo kernel/(129388:129388): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 02:50:20:412 modulo kernel/(129388:129388): Se conecto un cliente (a Server Kernel)
+
+[INFO] 02:50:20:413 modulo kernel/(129388:129388): Se conecto un IO de STDOUT
+[DEBUG] 02:50:20:419 modulo kernel/(129388:129625): se conecto una io
+[ERROR] 20:04:26:654 modulo kernel/(135895:135895): Error al conectar (a servidor memoria)
+
+[INFO] 20:07:12:759 modulo kernel/(138232:138232): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 20:07:12:760 modulo kernel/(138232:138232): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 20:07:12:760 modulo kernel/(138232:138232): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 20:07:12:760 modulo kernel/(138232:138232): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 20:07:13:230 modulo kernel/(138232:138232): Se conecto un cliente (a Server Kernel)
+
+[INFO] 20:07:13:230 modulo kernel/(138232:138232): Se conecto un IO de STDOUT
+[INFO] 21:24:30:277 modulo kernel/(141726:141726): Cliente conectado en 127.0.0.1:8002 (a servidor memoria)
+
+[INFO] 21:24:30:278 modulo kernel/(141726:141726): Cliente conectado en 127.0.0.1:8006 (a servidor cpu dispatch)
+
+[INFO] 21:24:30:278 modulo kernel/(141726:141726): Cliente conectado en 127.0.0.1:8007 (a servidor cpu interrupt)
+
+[INFO] 21:24:30:278 modulo kernel/(141726:141726): Escuchando en 127.0.0.1:8003 (Servidor Kernel)
+
+[INFO] 21:25:30:398 modulo kernel/(141726:141726): Se conecto un cliente (a Server Kernel)
+
+[INFO] 21:25:30:398 modulo kernel/(141726:141726): Se conecto un IO de calculadora
